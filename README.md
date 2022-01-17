@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abbas9890
+- 👋 Hi, I’m @AbbasKherani
 - 👀 I’m interested in mobile app and web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on git
