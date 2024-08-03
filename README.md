@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbbasKherani
 - 👀 I’m interested in mobile app and web development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me abbaskherani1998@gmail.com
 
